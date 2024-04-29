@@ -10,21 +10,21 @@ const userDetailsList = [
   },
   {
     uniqueNo: 2,
-    imageUrl: 'https://assets.ccbp.in/frontend/react-js/esther-howard-img.png',
-    name: 'Ranga',
-    role: 'Software Developer',
+    imageUrl: 'https://assets.ccbp.in/frontend/react-js/floyd-miles-img.png',
+    name: 'Sravya',
+    role: 'React Developer',
   },
   {
     uniqueNo: 3,
-    imageUrl: 'https://assets.ccbp.in/frontend/react-js/esther-howard-img.png',
-    name: 'Ranga',
-    role: 'Software Developer',
+    imageUrl: 'https://assets.ccbp.in/frontend/react-js/jacob-jones-img.png',
+    name: 'Jacob',
+    role: 'Backend Developer',
   },
   {
     uniqueNo: 4,
-    imageUrl: 'https://assets.ccbp.in/frontend/react-js/esther-howard-img.png',
-    name: 'Ranga',
-    role: 'Software Developer',
+    imageUrl: 'https://assets.ccbp.in/frontend/react-js/devon-lane-img.png',
+    name: 'Devon',
+    role: 'Project Manager',
   },
 ]
 
